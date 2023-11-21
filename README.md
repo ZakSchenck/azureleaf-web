@@ -4,4 +4,4 @@
 [Documentation/Website Link](https://zakschenck.github.io/azureleaf-web/)
 [Library Repo](https://github.com/zakschenck/azureleaf-js/)
 [NPM Link](https://www.npmjs.com/package/azureleaf)
-[!alt text](https://ibb.co/DwL3Pg2)
+![Website image](https://ibb.co/DwL3Pg2)
