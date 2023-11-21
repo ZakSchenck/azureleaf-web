@@ -6,7 +6,7 @@ import Home from "./views/Home.vue";
 import Documentation from "./views/Documentation.vue";
 
 const router = createRouter({
-  history: createWebHistory('/azureleaf-web/'),
+  history: createWebHistory(process.env.BASE_URL),
   routes: [
     { path: "/", component: Home, meta: { title: 'Azureleaf - Home' } },
     { path: "/documentation", component: Documentation, meta: { title: 'Azureleaf - Documentation' } },
