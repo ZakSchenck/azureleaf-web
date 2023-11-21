@@ -1,24 +1,7 @@
-# azureleaf
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Azureleaf
+## A compact, lightweight, utility Javascript data manipulation library. By Zak Schenck
+### Max weekly downloads: 204
+[Documentation/Website Link](https://zakschenck.github.io/azureleaf-web/)
+[Library Repo](https://github.com/zakschenck/azureleaf-js/)
+[NPM Link](https://www.npmjs.com/package/azureleaf)
+[!alt text](https://ibb.co/DwL3Pg2)
