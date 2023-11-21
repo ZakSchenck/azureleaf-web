@@ -24,6 +24,10 @@ body {
   background-color: lightgray;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 * {
   box-sizing: border-box;
 }

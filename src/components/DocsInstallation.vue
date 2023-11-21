@@ -31,6 +31,7 @@ export default {
     this.highlightCode();
   },
   methods: {
+    // Highlights all of the texts in the code block
     highlightCode() {
       const blocks = this.$el.querySelectorAll("pre code");
       blocks.forEach((block) => {
@@ -43,12 +44,11 @@ export default {
   
   <style scoped>
 .docs-installation__container {
-  padding: 3%;
   width: 100%;
 }
 
 .docs-installation__container pre code {
-  background-color: #d5d5d5 ; /* Adjust to the color you prefer */
+  background-color: #e6e6e6 ; /* Adjust to the color you prefer */
 }
 </style>
   

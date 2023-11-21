@@ -56,5 +56,17 @@ h2 {
     text-align: center;
     margin: 16px;
 }
+
+@media all and (max-width: 365px) {
+  .main-page__btn-container {
+    flex-direction: column;
+  }
+
+  .main-page__container img {
+    width: 230px;
+    height: 230px;
+    margin-top: 100px;
+  }
+}
 </style>
     
