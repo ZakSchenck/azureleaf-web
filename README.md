@@ -1,6 +1,6 @@
 # Azureleaf
 ## A compact, lightweight, utility Javascript data manipulation library. By Zak Schenck
-### Max weekly downloads: 204
+### Max weekly downloads: 253
 - [Documentation/Website Link](https://zakschenck.github.io/azureleaf-web/)  
 - [Library Repo](https://github.com/zakschenck/azureleaf-js/)  
 - [NPM Link](https://www.npmjs.com/package/azureleaf)  
